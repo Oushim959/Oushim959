@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Oushim959
-- 👀 I’m interested in AI, programming, and illustrating 
+- 👀 I’m interested in AI, programming
 - 🌱 I’m currently learning ML Models
 - 📫 How to reach me oshim959@gmail.com
 
